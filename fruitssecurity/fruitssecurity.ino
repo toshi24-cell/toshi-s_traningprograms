@@ -11,8 +11,8 @@ const char* ssid = "";
 const char* password = "";
 
 // LINE Notify設定
-const char* lineNotifyEndpoint = "https://notify-api.line.me/api/notify";
-const char* lineNotifyToken = "icjP9DTO6iNjRY1oHsn1AuBfn9LD72vQ6sx9SMRZG15";
+const char* lineNotifyEndpoint = "";
+const char* lineNotifyToken = "";
 
 bool objectDetected = false; // 物体検出フラグ
 
