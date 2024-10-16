@@ -7,8 +7,8 @@ const int echoPin = 1; // 1:ConnectorA 5:ConnectorB
 const int LEDPin = 4;   // LEDのピン
 
 // Wi-Fi設定
-const char* ssid = "AP01-01";
-const char* password = "1qaz2wsx";
+const char* ssid = "";
+const char* password = "";
 
 // LINE Notify設定
 const char* lineNotifyEndpoint = "https://notify-api.line.me/api/notify";
